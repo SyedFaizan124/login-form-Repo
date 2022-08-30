@@ -48,7 +48,7 @@ const Loginform = () => {
 
                         <div className="login-name">
                             <h2>Login</h2>
-                            <p>Enter your credential to login to your account</p>
+                            <h4>Enter your credential to login to your account</h4>
                         </div>
 
                         <div className="input01">
